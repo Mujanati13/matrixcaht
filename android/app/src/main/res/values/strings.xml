@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MatrixChat</string>
+    <string name="app_description">Secure Matrix messaging with end-to-end encryption</string>
+    
+    <!-- Authentication strings -->
+    <string name="login_title">Welcome Back</string>
+    <string name="signup_title">Create Account</string>
+    <string name="pin_setup_title">Set Up PIN</string>
+    <string name="pin_entry_title">Enter PIN</string>
+    
+    <!-- Security strings -->
+    <string name="biometric_prompt_title">Authenticate</string>
+    <string name="biometric_prompt_subtitle">Use your biometric to unlock MatrixChat</string>
+    <string name="biometric_prompt_description">Place your finger on the sensor or look at the camera</string>
+    
+    <!-- Notification strings -->
+    <string name="notification_channel_name">MatrixChat Messages</string>
+    <string name="notification_channel_description">Messages from MatrixChat</string>
+    
+    <!-- Error messages -->
+    <string name="error_network">Network connection error</string>
+    <string name="error_authentication">Authentication failed</string>
+    <string name="error_generic">Something went wrong</string>
+    
+    <!-- Success messages -->
+    <string name="success_login">Login successful</string>
+    <string name="success_signup">Account created successfully</string>
+    <string name="success_message_sent">Message sent</string>
+</resources>
